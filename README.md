@@ -4,6 +4,8 @@
 
 Eskimo Travel is a leading international travel eSIM provider offering seamless connectivity across 130+ countries worldwide with innovative features designed specifically for modern travelers. The service provides the world's first travel eSIM with an industry-leading 2-year validity period for all data plans at no extra cost, allowing users to eliminate roaming fees and traditional SIM card hassles. Eskimo eSIM stands out with unique capabilities including unlimited data rollover, instant data transfer to friends and family using only a mobile number, and support for personal hotspot functionality across all devices. The platform delivers fast and reliable 4G/5G high-speed connectivity on major networks like AT&T and T-Mobile, ensuring travelers stay connected for browsing, streaming, and navigation throughout their journeys.
 
+<img width="2598" height="1384" alt="image" src="https://github.com/user-attachments/assets/35951784-45c9-44e4-b923-340073372c23" />
+
 ## Eskimo Travel Official Website Address
 
 **Eskimo Travel Official Website:** [https://www.eskimo.travel](https://eskimo.travel/AP83845)
